@@ -9,6 +9,7 @@ We build lightweight, local-first AI tools for knowledge management, productivit
 | Project | Description |
 |---|---|
 | [**PieKBS**](https://github.com/pieteams/piekbs) | A local-first knowledge base engine for AI agents — distills raw documents into structured Markdown wiki, searchable via MCP |
+| [**PieMDM**](https://github.com/pieteams/piemdm) | Enterprise Master Data Management system — data governance, modeling, and integration built with Go + Vue.js |
 
 ## Philosophy
 
@@ -20,4 +21,5 @@ We build lightweight, local-first AI tools for knowledge management, productivit
 ## Contact
 
 - 📦 [GitHub](https://github.com/pieteams)
-- 🌐 [Docs](https://pieteams.github.io/piekbs/)
+- 🌐 [PieKBS Docs](https://pieteams.github.io/piekbs/)
+- 🌐 [PieMDM Docs](https://pieteams.github.io/piemdm/)
